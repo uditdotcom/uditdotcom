@@ -3,7 +3,7 @@
 I'm an AI & Full Stack Engineer – building intelligent systems and powerful web-based applications.  
 Formerly, a Mathematics content creator and freelancer for large AI/LLM datasets.
 
-Previously worked with: [`IBM CSRBOX`](https://www.linkedin.com/in/uditnow/) [`Meta Dataset Project`](#) [`Academic AI Labs`](https://github.com/uditdotcom)
+Previously worked with: [`IBM CSRBOX`](https://www.linkedin.com/in/uditnow/) [`Meta Dataset Project`] [`College Project`](https://github.com/uditdotcom/autoEntryGuard-CUM-smartPark)
 
 ---
 
