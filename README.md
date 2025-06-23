@@ -25,10 +25,8 @@ Previously worked with: [`IBM CSRBOX`](https://www.linkedin.com/in/uditnow/) [`M
 - 📚 **Meta Freelance Dataset Project**  
   Created structured Math datasets using **LaTeX** for LLM fine-tuning.
 
----### Previously worked at:  
-[`IBM CSRBOX`](https://www.linkedin.com/in/uditnow/) [`Meta Dataset Project`](#) [`Academic AI Labs`](https://github.com/uditdotcom)
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditdotcom&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditdotcom&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditdotcom&theme=dracula) |
+|  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditdotcom&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditdotcom&theme=dracula) |
 |------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------------|
 
 > Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
