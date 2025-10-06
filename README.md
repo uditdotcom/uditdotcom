@@ -1,4 +1,4 @@
-## Udit Gupta
+### Udit Gupta
 
 I'm an AI & Full Stack Engineer – building intelligent systems and powerful web-based applications.  
 Formerly, a Mathematics content creator and freelancer for large AI/LLM datasets.
